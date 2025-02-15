@@ -1,6 +1,19 @@
-*{
+* {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
+}
+
+body {
+    background-color: #acacff;
+
+}
+
+main {
+    background-color: white;
+    width: 560px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
 }
 
 h1 {
@@ -8,21 +21,9 @@ h1 {
     color: rgb(58, 0, 112);
 }
 
-h2{
+h2 {
     font-size: 1.5em;
     color: rgb(58, 0, 112);
-}
-
-body{
-    background-color: rgb(204, 167, 238);
-}
-
-main {
-    background-color: white;
-    width: 500px;
-    margin: auto;
-    padding: 10px;
-    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.479);
 }
 
 img.lado {
